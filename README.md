@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Human-Computer Interaction graduate. I am passionate about UX research and design, with experience as an Analyst Programmer and a Web & UI Designer. I have expertise in UI/UX evaluation, Ideation, Design, and Research. I'm currently learning on coding and web development.
+
