@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hej there 👋
 
 <!--
 **Silveride14/Silveride14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
